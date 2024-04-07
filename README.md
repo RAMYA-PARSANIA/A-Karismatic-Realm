@@ -26,7 +26,7 @@ Languages:
 Python
 
 Models:
-HuggingFace(aspis/gpt2-genre-story-generation,ByteDance/SDXL-Lightning)
+HuggingFace(gpt2-xl, aspis/gpt2-genre-story-generation,ByteDance/SDXL-Lightning)
 
 Libraries: 
 Pygame,requests,gradio,sys,streamlit,subprocess,time,opencv,mediapipe.

@@ -36,11 +36,15 @@ text
 Can run on any pc with stable internet connection and camera.
 ## Applications
 Entertainment
+
 Story Generation
+
 Comic generation assistance
+
 Assistance in image generation
 ## Further Improvements
-Text-to_speech for great story-telling
+Text-to_speech for great story-telling.
+
 Supporting visual images for interesting stories.
 ## Demo Video
 Yotube link

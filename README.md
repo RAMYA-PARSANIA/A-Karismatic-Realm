@@ -1,7 +1,7 @@
 
 A_Karismatic_Realm
 
-It is an adventurous game that involve text generation,image generation, audio generation and hand gestures detection using some open-source pre-trained machine learning models. We have developed as a part of HackNite'24.
+It is an adventurous game that involves text generation,image generation, audio generation and hand gestures detection using some open-source pre-trained machine learning models. We have developed this project as a part of HackNite'24.
 
 
 ## Tracks and Contributors

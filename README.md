@@ -39,6 +39,8 @@ Then, go to the folder named "Apps", then to the folder "App". Open the Terminal
 streamlit run 1_main.py
 
 ## Make sure you are connected to the internet when running the file, and when any kind of error message is given, kindly close the current browser tab and run it again.
+## Please set the device display theme to Light Mode for better visibility of text on the page
+## Any errors that occur are just because of network issues because we used APIs for the models, so for any errors encountered, for instance, a list index out of range error, or any other error, please close the page for the game and run the code again
 ## Deployment
 Can run on any pc with stable internet connection and camera.
 ## Applications

@@ -37,7 +37,8 @@ Pygame,requests,gradio,sys,streamlit,subprocess,time,opencv,mediapipe.
 Read the requirements file and download all the required libraries using pip.
 Then, go to the folder named "Apps", then to the folder "App". Open the Terminal from this directory and run the code:
 streamlit run 1_main.py
-##Make sure you are connected to the internet when running the file, and when any kind of error message is given, kindly close the current browser tab and run it again.
+
+## Make sure you are connected to the internet when running the file, and when any kind of error message is given, kindly close the current browser tab and run it again.
 ## Deployment
 Can run on any pc with stable internet connection and camera.
 ## Applications

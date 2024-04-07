@@ -6,6 +6,7 @@ It is an adventurous game that involve text generation,image generation, audio g
 
 ## Tracks and Contributors
 Track: Machine Learning
+
 Contributors: Ramya Parsania, Velidanda Krishna Sai, Aaryan Antala.
 
 ## Problem Statement
